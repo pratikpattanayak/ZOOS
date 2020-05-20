@@ -1,0 +1,7 @@
+T=input()
+X=T.count("z")
+Y=T.count("o")
+if(2*X==Y):
+    print("Yes")
+else:
+    print("No")
